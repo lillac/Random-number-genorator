@@ -32,9 +32,8 @@ elif ask == "i":
   print(i)
 elif ask == "j":
   print(j)
-
-
-
+else:
+  print("Must be between a-j")
 
 
 
